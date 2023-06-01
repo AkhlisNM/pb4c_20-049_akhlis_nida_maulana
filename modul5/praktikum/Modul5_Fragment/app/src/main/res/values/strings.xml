@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Modul5_Fragment</string>
+    <string name="tab_text_1">Akademik</string>
+    <string name="tab_text_2">Umum</string>
+    <string name="content_akademik">Kelas Akademik Anda Kosong.</string>
+    <string name="content_akademik2">Minta dosen Anda untuk mensikronkan \ndengan Siakad</string>
+
+</resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_beranda"
+        android:icon="@drawable/home"
+        android:title="Beranda" />
+
+    <item
+        android:id="@+id/navigation_jelajah"
+        android:icon="@drawable/roket"
+        android:title="Jelajah" />
+
+    <item
+        android:id="@+id/navigation_ruang"
+        android:icon="@drawable/cup"
+        android:title="Ruang Kelas" />
+
+    <item
+        android:id="@+id/navigation_chat"
+        android:icon="@drawable/chat"
+        android:title="Obrolan" />
+
+    <item
+        android:id="@+id/navigation_akun"
+        android:icon="@drawable/akun"
+        android:title="Akun" />
+</menu>
